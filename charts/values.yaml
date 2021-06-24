@@ -92,7 +92,7 @@ service:
   externalPort: 80
   internalPort: 8080
   labels: {}
-  name: nodejs-posgresql
+  name: REPLACE_ME_APP_NAME
   type: ClusterIP
 serviceAccount:
   annotations: {}
