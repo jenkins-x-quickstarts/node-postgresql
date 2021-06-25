@@ -4,7 +4,7 @@ A demo Quotes REST API using Node.js and PostgreSQL. Built with Express Js for t
 
 ## Deploy with Jenkins X
 
-Before you use this quickstart you need to [install the postresql operator in your cluster](https://jenkins-x.io/blog/2021/06/24/jx-databases-2021/#before-you-start)
+Before you use this quickstart you need to [install the postresql operator in your cluster](https://jenkins-x.io/blog/2021/06/25/jx-cd-databases-2021/#before-you-start)
 
 Follow the [create quickstart documentation](https://jenkins-x.io/v3/develop/create-project/#create-a-new-project-from-a-quickstart) choosing the `nodesql-postgresql` quickstart from the list
 
